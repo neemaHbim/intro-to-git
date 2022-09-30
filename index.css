@@ -1,0 +1,42 @@
+html,body{
+margin: 0;
+padding: 0;
+background-image: url(images/pc\ mine.jpg);
+background-size: cover;
+}
+.navp {
+    display: flex;
+    justify-content: space-between;
+    background-color:rgba(190, 186, 221, 0.23);
+     height: 60px;
+
+
+}
+
+.navp ol{
+display: flex;
+list-style: none;
+
+}
+.navp a{
+padding-left: 120px;
+text-decoration: none;
+color:blue;
+font-size: large;
+font-style: italic;
+}
+
+h2{
+
+margin: auto;
+margin-left: 10px;
+
+font-style:oblique;
+font-size: 50px;
+font: bold;
+color: rgba(0, 0, 0, 0.663);
+padding: 300px;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Poppins', sans-serif;
+
+}
